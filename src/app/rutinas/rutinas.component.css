@@ -1,0 +1,10 @@
+@media (min-width: 768px) {
+  .row-cols-md-3>* {
+    flex: 0 0 auto;
+    width: 28.333333%;
+  }
+}
+
+div>p {
+  color: white;
+}
